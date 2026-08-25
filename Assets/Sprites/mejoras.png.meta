@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 9044938d40903bd41b2b3434bc3545d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3599288483884552916
+    second: mejoras_0
+  - first:
+      213: -2882270514829111654
+    second: mejoras_1
+  - first:
+      213: -7314822256674660870
+    second: mejoras_2
+  - first:
+      213: -2745000958485834374
+    second: mejoras_3
+  - first:
+      213: -2223186647170205023
+    second: mejoras_4
+  - first:
+      213: 7523697617482065480
+    second: mejoras_5
+  - first:
+      213: 2707326529021984823
+    second: mejoras_6
+  - first:
+      213: -5998173773166467596
+    second: mejoras_7
+  - first:
+      213: 3709299816940594727
+    second: mejoras_8
+  - first:
+      213: 7123270034081363687
+    second: mejoras_9
+  - first:
+      213: 1573727354978794927
+    second: mejoras_10
+  - first:
+      213: 7641024901300378179
+    second: mejoras_11
+  - first:
+      213: 4636071662906293477
+    second: mejoras_12
+  - first:
+      213: 75320873277877595
+    second: mejoras_13
+  - first:
+      213: -7153213677254630289
+    second: mejoras_14
+  - first:
+      213: -7780095652786865192
+    second: sello_extra
+  - first:
+      213: -2643123510817629319
+    second: congelar
+  - first:
+      213: 324390122282789994
+    second: mejorar
+  - first:
+      213: -9005229454675556921
+    second: tesoro
+  - first:
+      213: -3616768960356680095
+    second: cambiar_numero
+  - first:
+      213: -7292644735765277934
+    second: carton_nuevo
+  - first:
+      213: -8414124784725084258
+    second: quitar_bola
+  - first:
+      213: -1978825391229830667
+    second: doblar_bola
+  - first:
+      213: 8584312572229404270
+    second: purgar_columna
+  - first:
+      213: 9193111665689325441
+    second: devolver_bola
+  - first:
+      213: 7161816255123445475
+    second: cantar_rapido
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sello_extra
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 767
+        width: 157
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbf319793c870490800000000000000
+      internalID: -7780095652786865192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: congelar
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 777
+        width: 176
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b5b38bb2db15bd0800000000000000
+      internalID: -2643123510817629319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mejorar
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 777
+        width: 176
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6caf47f817708400800000000000000
+      internalID: 324390122282789994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tesoro
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 777
+        width: 180
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5cd21d58ff60380800000000000000
+      internalID: -9005229454675556921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cambiar_numero
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 532
+        width: 226
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ef7430bc7aecdc0800000000000000
+      internalID: -3616768960356680095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carton_nuevo
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 515
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213969b30425bca90800000000000000
+      internalID: -7292644735765277934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quitar_bola
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 532
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97b6a696160b3b80800000000000000
+      internalID: -8414124784725084258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doblar_bola
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 532
+        width: 212
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f83b7accc984e0800000000000000
+      internalID: -1978825391229830667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purgar_columna
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 122
+        width: 228
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6647a48dca912770800000000000000
+      internalID: 8584312572229404270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devolver_bola
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 245
+        width: 182
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f69ed4a5e749f70800000000000000
+      internalID: 9193111665689325441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cantar_rapido
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 245
+        width: 186
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6504960f1e36360800000000000000
+      internalID: 7161816255123445475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cambiar_numero: -3616768960356680095
+      cantar_rapido: 7161816255123445475
+      carton_nuevo: -7292644735765277934
+      congelar: -2643123510817629319
+      devolver_bola: 9193111665689325441
+      doblar_bola: -1978825391229830667
+      mejorar: 324390122282789994
+      mejoras_0: 3599288483884552916
+      mejoras_1: -2882270514829111654
+      mejoras_10: 1573727354978794927
+      mejoras_11: 7641024901300378179
+      mejoras_12: 4636071662906293477
+      mejoras_13: 75320873277877595
+      mejoras_14: -7153213677254630289
+      mejoras_2: -7314822256674660870
+      mejoras_3: -2745000958485834374
+      mejoras_4: -2223186647170205023
+      mejoras_5: 7523697617482065480
+      mejoras_6: 2707326529021984823
+      mejoras_7: -5998173773166467596
+      mejoras_8: 3709299816940594727
+      mejoras_9: 7123270034081363687
+      purgar_columna: 8584312572229404270
+      quitar_bola: -8414124784725084258
+      sello_extra: -7780095652786865192
+      tesoro: -9005229454675556921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

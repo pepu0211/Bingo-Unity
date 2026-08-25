@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 9f4a148372d4dae4db3462a7d8305e7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 822183413199248330
+    second: supersticiones familia patrones_0
+  - first:
+      213: -7710893932410237877
+    second: supersticiones familia patrones_1
+  - first:
+      213: -1181292466851568955
+    second: supersticiones familia patrones_2
+  - first:
+      213: -2697882410018714888
+    second: supersticiones familia patrones_3
+  - first:
+      213: -4451122851234128589
+    second: supersticiones familia patrones_4
+  - first:
+      213: 2242790716994534765
+    second: supersticiones familia patrones_5
+  - first:
+      213: -8037328732924576488
+    second: supersticiones familia patrones_6
+  - first:
+      213: 2527628509167453477
+    second: supersticiones familia patrones_7
+  - first:
+      213: 216988343218972133
+    second: supersticiones familia patrones_8
+  - first:
+      213: 5880119251098662871
+    second: supersticiones familia patrones_9
+  - first:
+      213: -8200064638936427187
+    second: fanatico
+  - first:
+      213: -2991495066802093678
+    second: terco
+  - first:
+      213: 181042576550188842
+    second: purista
+  - first:
+      213: 1011753646184216098
+    second: apostador
+  - first:
+      213: 6655263684693835165
+    second: cruzada
+  - first:
+      213: -2670832589788330682
+    second: estratega
+  - first:
+      213: -8870746134693806132
+    second: tejedor
+  - first:
+      213: 5418258748277840713
+    second: asiento
+  - first:
+      213: 458949000707969218
+    second: minimalista
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fanatico
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 747
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d3fc18a4833e80800000000000000
+      internalID: -8200064638936427187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terco
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 762
+        width: 334
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2918deb16131c76d0800000000000000
+      internalID: -2991495066802093678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purista
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 747
+        width: 248
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27de70a341338200800000000000000
+      internalID: 181042576550188842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apostador
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 460
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2263409a4987a0e00800000000000000
+      internalID: 1011753646184216098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cruzada
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 460
+        width: 232
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dbbb46f0f3c5c50800000000000000
+      internalID: 6655263684693835165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estratega
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 450
+        width: 248
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645412709eb4fead0800000000000000
+      internalID: -2670832589788330682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tejedor
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 71
+        width: 243
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff7e4c367c4e480800000000000000
+      internalID: -8870746134693806132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asiento
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 61
+        width: 294
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bd048df95813b40800000000000000
+      internalID: 5418258748277840713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimalista
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 81
+        width: 202
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0183d3fa38e5600800000000000000
+      internalID: 458949000707969218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      apostador: 1011753646184216098
+      asiento: 5418258748277840713
+      cruzada: 6655263684693835165
+      estratega: -2670832589788330682
+      fanatico: -8200064638936427187
+      minimalista: 458949000707969218
+      purista: 181042576550188842
+      supersticiones familia patrones_0: 822183413199248330
+      supersticiones familia patrones_1: -7710893932410237877
+      supersticiones familia patrones_2: -1181292466851568955
+      supersticiones familia patrones_3: -2697882410018714888
+      supersticiones familia patrones_4: -4451122851234128589
+      supersticiones familia patrones_5: 2242790716994534765
+      supersticiones familia patrones_6: -8037328732924576488
+      supersticiones familia patrones_7: 2527628509167453477
+      supersticiones familia patrones_8: 216988343218972133
+      supersticiones familia patrones_9: 5880119251098662871
+      tejedor: -8870746134693806132
+      terco: -2991495066802093678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 74cf945854a5fa14c89257a887e656d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6238464606769624872
+    second: supersticiones familia sellos_0
+  - first:
+      213: 7504288823008377111
+    second: supersticiones familia sellos_1
+  - first:
+      213: 968133710119144260
+    second: supersticiones familia sellos_2
+  - first:
+      213: 8395040826844949071
+    second: supersticiones familia sellos_3
+  - first:
+      213: 6400796644635832631
+    second: supersticiones familia sellos_4
+  - first:
+      213: -8337364989019075578
+    second: supersticiones familia sellos_5
+  - first:
+      213: 99099033923176889
+    second: supersticiones familia sellos_6
+  - first:
+      213: -2839826103793391969
+    second: supersticiones familia sellos_7
+  - first:
+      213: 8458883426514854458
+    second: supersticiones familia sellos_8
+  - first:
+      213: 8795550669957783798
+    second: supersticiones familia sellos_9
+  - first:
+      213: -5856319821566539841
+    second: supersticiones familia sellos_10
+  - first:
+      213: -3917654458097167855
+    second: supersticiones familia sellos_11
+  - first:
+      213: -6564652990899014424
+    second: ahorrador
+  - first:
+      213: -3036574901544920469
+    second: tacano
+  - first:
+      213: 8190718416357546368
+    second: conservador
+  - first:
+      213: -3203814765414632463
+    second: impulsivo
+  - first:
+      213: 5226689100016356999
+    second: equilibrista
+  - first:
+      213: -6244936404822148189
+    second: francotirador
+  - first:
+      213: 4407934527204686292
+    second: oportunista
+  - first:
+      213: 6103980661606399320
+    second: muneco
+  - first:
+      213: -313480324510720339
+    second: no_prestar
+  - first:
+      213: -6579080713020258909
+    second: soplar
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ahorrador
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 341
+        width: 163
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e432c3c2eaa5e4a0800000000000000
+      internalID: -6564652990899014424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tacano
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 336
+        width: 167
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a5c8b273bebd5d0800000000000000
+      internalID: -3036574901544920469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conservador
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 356
+        width: 136
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089dd3ed0074ba170800000000000000
+      internalID: 8190718416357546368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impulsivo
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 174
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f33f450273c983d0800000000000000
+      internalID: -3203814765414632463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equilibrista
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 335
+        width: 176
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e81e55b0ee88840800000000000000
+      internalID: 5226689100016356999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: francotirador
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 65
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abbba94d678559a0800000000000000
+      internalID: -6244936404822148189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oportunista
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 64
+        width: 154
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9f63729112c2d30800000000000000
+      internalID: 4407934527204686292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muneco
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 65
+        width: 172
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d37ea4212b5b450800000000000000
+      internalID: 6103980661606399320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no_prestar
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 65
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daed6754e4b46abf0800000000000000
+      internalID: -313480324510720339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soplar
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 65
+        width: 169
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5cdcfe2f862b4a0800000000000000
+      internalID: -6579080713020258909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ahorrador: -6564652990899014424
+      conservador: 8190718416357546368
+      equilibrista: 5226689100016356999
+      francotirador: -6244936404822148189
+      impulsivo: -3203814765414632463
+      muneco: 6103980661606399320
+      no_prestar: -313480324510720339
+      oportunista: 4407934527204686292
+      soplar: -6579080713020258909
+      supersticiones familia sellos_0: -6238464606769624872
+      supersticiones familia sellos_1: 7504288823008377111
+      supersticiones familia sellos_10: -5856319821566539841
+      supersticiones familia sellos_11: -3917654458097167855
+      supersticiones familia sellos_2: 968133710119144260
+      supersticiones familia sellos_3: 8395040826844949071
+      supersticiones familia sellos_4: 6400796644635832631
+      supersticiones familia sellos_5: -8337364989019075578
+      supersticiones familia sellos_6: 99099033923176889
+      supersticiones familia sellos_7: -2839826103793391969
+      supersticiones familia sellos_8: 8458883426514854458
+      supersticiones familia sellos_9: 8795550669957783798
+      tacano: -3036574901544920469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

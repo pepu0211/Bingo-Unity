@@ -1,0 +1,878 @@
+fileFormatVersion: 2
+guid: bb5b7b07500c1bd4197f8abad8f48009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8074125021574049318
+    second: supersticiones familia bombo_0
+  - first:
+      213: 455220616315255957
+    second: supersticiones familia bombo_1
+  - first:
+      213: -6882837477076785676
+    second: supersticiones familia bombo_2
+  - first:
+      213: -1272579171277622684
+    second: supersticiones familia bombo_3
+  - first:
+      213: 4562374311151645916
+    second: supersticiones familia bombo_4
+  - first:
+      213: -2634663223852572049
+    second: supersticiones familia bombo_5
+  - first:
+      213: -6166399908535387546
+    second: supersticiones familia bombo_6
+  - first:
+      213: -587572464296277670
+    second: supersticiones familia bombo_7
+  - first:
+      213: -8921497918805784505
+    second: supersticiones familia bombo_8
+  - first:
+      213: 1321328386645189264
+    second: supersticiones familia bombo_9
+  - first:
+      213: 9220565392068439413
+    second: supersticiones familia bombo_10
+  - first:
+      213: -2486993006156582196
+    second: supersticiones familia bombo_11
+  - first:
+      213: -6418407266926713561
+    second: supersticiones familia bombo_12
+  - first:
+      213: -1192851971895598638
+    second: supersticiones familia bombo_13
+  - first:
+      213: -5527925699602666592
+    second: supersticiones familia bombo_14
+  - first:
+      213: 7970206691050998913
+    second: supersticiones familia bombo_15
+  - first:
+      213: 2748342947163399657
+    second: supersticiones familia bombo_16
+  - first:
+      213: 5852421669068313337
+    second: supersticiones familia bombo_17
+  - first:
+      213: 8218903993557932272
+    second: supersticiones familia bombo_18
+  - first:
+      213: -8408643894186605092
+    second: supersticiones familia bombo_19
+  - first:
+      213: -1912296281925473828
+    second: supersticiones familia bombo_20
+  - first:
+      213: 1808060884838299200
+    second: supersticiones familia bombo_21
+  - first:
+      213: 7570651457341509321
+    second: supersticiones familia bombo_22
+  - first:
+      213: -8684460410330104164
+    second: supersticiones familia bombo_23
+  - first:
+      213: -424836780918222301
+    second: supersticiones familia bombo_24
+  - first:
+      213: -747358097881401304
+    second: supersticiones familia bombo_25
+  - first:
+      213: 3960140997294287160
+    second: supersticiones familia bombo_26
+  - first:
+      213: 2635711516032168234
+    second: supersticiones familia bombo_27
+  - first:
+      213: -3408832761682465815
+    second: supersticiones familia bombo_28
+  - first:
+      213: -156467222987837659
+    second: supersticiones familia bombo_29
+  - first:
+      213: 5522731272947724881
+    second: supersticiones familia bombo_30
+  - first:
+      213: -2980528063288790226
+    second: vidente
+  - first:
+      213: -5519215514127663277
+    second: bruja
+  - first:
+      213: -6955432560683247825
+    second: caotico
+  - first:
+      213: -8164870395163134494
+    second: manipulador
+  - first:
+      213: -5418926619950387802
+    second: ritual
+  - first:
+      213: -8913455325862121955
+    second: bola_nieve
+  - first:
+      213: -6811979870437466810
+    second: pata_conejo
+  - first:
+      213: 7243362072584145441
+    second: maldito
+  - first:
+      213: 3015712626524847297
+    second: criba
+  - first:
+      213: -3874930869120445201
+    second: purga
+  - first:
+      213: -1346959622222916138
+    second: quedabolas
+  - first:
+      213: -1802389098314199209
+    second: bombo_pequeno
+  - first:
+      213: 1938072214358375491
+    second: gafe_vecino
+  - first:
+      213: -3824822291517839514
+    second: bombo_cargado
+  - first:
+      213: -5092045306237714916
+    second: doble_fondo
+  - first:
+      213: -611611746363054507
+    second: mano_inocente
+  - first:
+      213: -1581503205645632351
+    second: trueque_bolas
+  - first:
+      213: 5159286075076001867
+    second: bola_repuesto
+  - first:
+      213: 697701259189938964
+    second: cantador_incansable
+  - first:
+      213: 2514038807707297920
+    second: recuento
+  - first:
+      213: -6111777755218065844
+    second: bombo_justo
+  - first:
+      213: -8681129446176091543
+    second: cuentabolas
+  - first:
+      213: -3003896848597526202
+    second: memoria_salon
+  - first:
+      213: -1394896601748009922
+    second: cuenta_fuera
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vidente
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 421
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23b698948903a6d0800000000000000
+      internalID: -2980528063288790226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bruja
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 421
+        width: 127
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f78916bbec763b0800000000000000
+      internalID: -5519215514127663277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caotico
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 423
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f271a4100f6597f90800000000000000
+      internalID: -6955432560683247825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manipulador
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 422
+        width: 109
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5b23b82ad80be80800000000000000
+      internalID: -8164870395163134494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ritual
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 421
+        width: 122
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ade2f923fa1cc4b0800000000000000
+      internalID: -5418926619950387802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_nieve
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 423
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eacac4b9b0d4480800000000000000
+      internalID: -8913455325862121955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pata_conejo
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 288
+        width: 109
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d9675366cf671a0800000000000000
+      internalID: -6811979870437466810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maldito
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 292
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a4ae39d67958460800000000000000
+      internalID: 7243362072584145441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: criba
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 288
+        width: 149
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc7ca8e7a6f9d920800000000000000
+      internalID: 3015712626524847297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purga
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 288
+        width: 148
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe451e0a7ea793ac0800000000000000
+      internalID: -3874930869120445201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quedabolas
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 288
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5db9e2c53ae4de0800000000000000
+      internalID: -1346959622222916138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombo_pequeno
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 288
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f02ff1aa0acf6e0800000000000000
+      internalID: -1802389098314199209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gafe_vecino
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 152
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cb2ed196a65ea10800000000000000
+      internalID: 1938072214358375491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombo_cargado
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 153
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667651104608beac0800000000000000
+      internalID: -3824822291517839514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doble_fondo
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 153
+        width: 107
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e7185d5cb6559b0800000000000000
+      internalID: -5092045306237714916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mano_inocente
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 152
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556e29d6b5e1387f0800000000000000
+      internalID: -611611746363054507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trueque_bolas
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 153
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb950b63f5d0ae0800000000000000
+      internalID: -1581503205645632351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola_repuesto
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 153
+        width: 128
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404687a957799740800000000000000
+      internalID: 5159286075076001867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cantador_incansable
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 130
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41beb51499bbea900800000000000000
+      internalID: 697701259189938964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recuento
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 20
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088a0f4c9f8a3e220800000000000000
+      internalID: 2514038807707297920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombo_justo
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 17
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46c712638a9e2ba0800000000000000
+      internalID: -6111777755218065844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuentabolas
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 16
+        width: 144
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9629d7763ce668780800000000000000
+      internalID: -8681129446176091543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memoria_salon
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 25
+        width: 130
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649dd654bb30056d0800000000000000
+      internalID: -3003896848597526202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuenta_fuera
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 21
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c09626ee454ace0800000000000000
+      internalID: -1394896601748009922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bola_nieve: -8913455325862121955
+      bola_repuesto: 5159286075076001867
+      bombo_cargado: -3824822291517839514
+      bombo_justo: -6111777755218065844
+      bombo_pequeno: -1802389098314199209
+      bruja: -5519215514127663277
+      cantador_incansable: 697701259189938964
+      caotico: -6955432560683247825
+      criba: 3015712626524847297
+      cuenta_fuera: -1394896601748009922
+      cuentabolas: -8681129446176091543
+      doble_fondo: -5092045306237714916
+      gafe_vecino: 1938072214358375491
+      maldito: 7243362072584145441
+      manipulador: -8164870395163134494
+      mano_inocente: -611611746363054507
+      memoria_salon: -3003896848597526202
+      pata_conejo: -6811979870437466810
+      purga: -3874930869120445201
+      quedabolas: -1346959622222916138
+      recuento: 2514038807707297920
+      ritual: -5418926619950387802
+      supersticiones familia bombo_0: -8074125021574049318
+      supersticiones familia bombo_1: 455220616315255957
+      supersticiones familia bombo_10: 9220565392068439413
+      supersticiones familia bombo_11: -2486993006156582196
+      supersticiones familia bombo_12: -6418407266926713561
+      supersticiones familia bombo_13: -1192851971895598638
+      supersticiones familia bombo_14: -5527925699602666592
+      supersticiones familia bombo_15: 7970206691050998913
+      supersticiones familia bombo_16: 2748342947163399657
+      supersticiones familia bombo_17: 5852421669068313337
+      supersticiones familia bombo_18: 8218903993557932272
+      supersticiones familia bombo_19: -8408643894186605092
+      supersticiones familia bombo_2: -6882837477076785676
+      supersticiones familia bombo_20: -1912296281925473828
+      supersticiones familia bombo_21: 1808060884838299200
+      supersticiones familia bombo_22: 7570651457341509321
+      supersticiones familia bombo_23: -8684460410330104164
+      supersticiones familia bombo_24: -424836780918222301
+      supersticiones familia bombo_25: -747358097881401304
+      supersticiones familia bombo_26: 3960140997294287160
+      supersticiones familia bombo_27: 2635711516032168234
+      supersticiones familia bombo_28: -3408832761682465815
+      supersticiones familia bombo_29: -156467222987837659
+      supersticiones familia bombo_3: -1272579171277622684
+      supersticiones familia bombo_30: 5522731272947724881
+      supersticiones familia bombo_4: 4562374311151645916
+      supersticiones familia bombo_5: -2634663223852572049
+      supersticiones familia bombo_6: -6166399908535387546
+      supersticiones familia bombo_7: -587572464296277670
+      supersticiones familia bombo_8: -8921497918805784505
+      supersticiones familia bombo_9: 1321328386645189264
+      trueque_bolas: -1581503205645632351
+      vidente: -2980528063288790226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

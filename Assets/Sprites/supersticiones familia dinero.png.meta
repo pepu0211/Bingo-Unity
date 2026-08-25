@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 7630248ecd5dbf14596467b52e0f7e1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6914540962816638760
+    second: supersticiones familia dinero_0
+  - first:
+      213: -6833981639769786133
+    second: supersticiones familia dinero_1
+  - first:
+      213: 6134017001041141217
+    second: supersticiones familia dinero_2
+  - first:
+      213: -7335729866028487048
+    second: supersticiones familia dinero_3
+  - first:
+      213: 1656472190822792981
+    second: supersticiones familia dinero_4
+  - first:
+      213: -2835993932675732205
+    second: supersticiones familia dinero_5
+  - first:
+      213: 6274674024856548301
+    second: supersticiones familia dinero_6
+  - first:
+      213: 3244951434782430483
+    second: supersticiones familia dinero_7
+  - first:
+      213: 7079765607910526901
+    second: supersticiones familia dinero_8
+  - first:
+      213: -2032776548248345589
+    second: supersticiones familia dinero_9
+  - first:
+      213: 4793915690846229345
+    second: supersticiones familia dinero_10
+  - first:
+      213: 8120316000930615764
+    second: supersticiones familia dinero_11
+  - first:
+      213: -1564061849020609312
+    second: supersticiones familia dinero_12
+  - first:
+      213: -8856690714741203705
+    second: supersticiones familia dinero_13
+  - first:
+      213: -3310985087776339483
+    second: supersticiones familia dinero_14
+  - first:
+      213: -3429203131310229326
+    second: supersticiones familia dinero_15
+  - first:
+      213: 6790601845225283521
+    second: supersticiones familia dinero_16
+  - first:
+      213: 2562451411480452895
+    second: supersticiones familia dinero_17
+  - first:
+      213: -2475230909736977290
+    second: supersticiones familia dinero_18
+  - first:
+      213: 7685501568591027243
+    second: supersticiones familia dinero_19
+  - first:
+      213: 6148454067855153105
+    second: supersticiones familia dinero_20
+  - first:
+      213: -6527834308671219410
+    second: supersticiones familia dinero_21
+  - first:
+      213: 1760461970072250164
+    second: supersticiones familia dinero_22
+  - first:
+      213: -5310330609805088815
+    second: banquero
+  - first:
+      213: 4967243933701007597
+    second: recaudador
+  - first:
+      213: -1634780900217348999
+    second: regateador
+  - first:
+      213: 7655622770745644483
+    second: prestamista
+  - first:
+      213: 5924682651703970760
+    second: rebajado
+  - first:
+      213: 1350211930392653980
+    second: reembolso
+  - first:
+      213: 3928461943669189227
+    second: mercader
+  - first:
+      213: 1585928702298163812
+    second: usurero
+  - first:
+      213: -8074200062334494460
+    second: hucha
+  - first:
+      213: -6593739749546404821
+    second: no_gasta
+  - first:
+      213: 4141331544596626512
+    second: generoso
+  - first:
+      213: -3079926818034908250
+    second: tasador
+  - first:
+      213: 2768064504376196712
+    second: inversor
+  - first:
+      213: -3594376535959435140
+    second: derrochador
+  - first:
+      213: 5818678104011890684
+    second: cambista
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: banquero
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 384
+        width: 145
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d72faa127aed46b0800000000000000
+      internalID: -5310330609805088815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recaudador
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 385
+        width: 157
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de866f44a023fe440800000000000000
+      internalID: 4967243933701007597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regateador
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 399
+        width: 158
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c93f4ce671059e0800000000000000
+      internalID: -1634780900217348999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prestamista
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 383
+        width: 156
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c59fa8495c3e3a60800000000000000
+      internalID: 7655622770745644483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebajado
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 388
+        width: 161
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb0cbd3b73b83250800000000000000
+      internalID: 5924682651703970760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reembolso
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 209
+        width: 152
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c907c82d89aecb210800000000000000
+      internalID: 1350211930392653980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercader
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 197
+        width: 158
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aea0ae253b48630800000000000000
+      internalID: 3928461943669189227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usurero
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 202
+        width: 139
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a049b80c9520610800000000000000
+      internalID: 1585928702298163812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hucha
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 199
+        width: 151
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099d1f72dda2ff80800000000000000
+      internalID: -8074200062334494460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no_gasta
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 207
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24d9e602a45e74a0800000000000000
+      internalID: -6593739749546404821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generoso
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 21
+        width: 83
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c3dcc1917f87930800000000000000
+      internalID: 4141331544596626512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tasador
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 25
+        width: 157
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a384dc80e6e145d0800000000000000
+      internalID: -3079926818034908250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inversor
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 29
+        width: 156
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ef5ba30042a6620800000000000000
+      internalID: 2768064504376196712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrochador
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 25
+        width: 155
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78832995953e1ec0800000000000000
+      internalID: -3594376535959435140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cambista
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 20
+        width: 158
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffd8fb28e810c050800000000000000
+      internalID: 5818678104011890684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      banquero: -5310330609805088815
+      cambista: 5818678104011890684
+      derrochador: -3594376535959435140
+      generoso: 4141331544596626512
+      hucha: -8074200062334494460
+      inversor: 2768064504376196712
+      mercader: 3928461943669189227
+      no_gasta: -6593739749546404821
+      prestamista: 7655622770745644483
+      rebajado: 5924682651703970760
+      recaudador: 4967243933701007597
+      reembolso: 1350211930392653980
+      regateador: -1634780900217348999
+      supersticiones familia dinero_0: 6914540962816638760
+      supersticiones familia dinero_1: -6833981639769786133
+      supersticiones familia dinero_10: 4793915690846229345
+      supersticiones familia dinero_11: 8120316000930615764
+      supersticiones familia dinero_12: -1564061849020609312
+      supersticiones familia dinero_13: -8856690714741203705
+      supersticiones familia dinero_14: -3310985087776339483
+      supersticiones familia dinero_15: -3429203131310229326
+      supersticiones familia dinero_16: 6790601845225283521
+      supersticiones familia dinero_17: 2562451411480452895
+      supersticiones familia dinero_18: -2475230909736977290
+      supersticiones familia dinero_19: 7685501568591027243
+      supersticiones familia dinero_2: 6134017001041141217
+      supersticiones familia dinero_20: 6148454067855153105
+      supersticiones familia dinero_21: -6527834308671219410
+      supersticiones familia dinero_22: 1760461970072250164
+      supersticiones familia dinero_3: -7335729866028487048
+      supersticiones familia dinero_4: 1656472190822792981
+      supersticiones familia dinero_5: -2835993932675732205
+      supersticiones familia dinero_6: 6274674024856548301
+      supersticiones familia dinero_7: 3244951434782430483
+      supersticiones familia dinero_8: 7079765607910526901
+      supersticiones familia dinero_9: -2032776548248345589
+      tasador: -3079926818034908250
+      usurero: 1585928702298163812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

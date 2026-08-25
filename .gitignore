@@ -1,0 +1,26 @@
+# Generado por Unity, no se versiona
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+*.csproj
+*.sln
+*.slnx
+.vs/
+*.user
+.idea/
+*.tmp
+
+# Capturas de depuración del MCP de Unity, no son arte del juego
+/Assets/Screenshots/
+
+# El código del núcleo (Assets/BingoRoguelike) vive en el repo
+# https://github.com/pepu0211/Bingo-Roguelike y está enlazado acá con una
+# junction de Windows (unity/Assets/BingoRoguelike en ese repo). No
+# duplicar su control de versiones en este repo: se edita y se commitea
+# del lado de Bingo-Roguelike.
+/Assets/BingoRoguelike/

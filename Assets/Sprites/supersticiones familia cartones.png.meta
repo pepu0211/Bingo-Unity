@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 0406000e5c182f549a8b95ac955dc547
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2021750113061674823
+    second: supersticiones familia cartones_0
+  - first:
+      213: -3769841614152703427
+    second: supersticiones familia cartones_1
+  - first:
+      213: 322864959868146451
+    second: supersticiones familia cartones_2
+  - first:
+      213: 5796752816584159424
+    second: supersticiones familia cartones_3
+  - first:
+      213: -5452374095946093687
+    second: supersticiones familia cartones_4
+  - first:
+      213: 4460611348243543817
+    second: supersticiones familia cartones_5
+  - first:
+      213: -8929726622459065260
+    second: supersticiones familia cartones_6
+  - first:
+      213: -2154705076631478713
+    second: supersticiones familia cartones_7
+  - first:
+      213: 3702332572571196714
+    second: supersticiones familia cartones_8
+  - first:
+      213: -13209032688206970
+    second: supersticiones familia cartones_9
+  - first:
+      213: 1474818214239558087
+    second: supersticiones familia cartones_10
+  - first:
+      213: 3846408265310911147
+    second: supersticiones familia cartones_11
+  - first:
+      213: 2784531884726948015
+    second: supersticiones familia cartones_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supersticiones familia cartones_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 323
+        width: 179
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f95a12403be0c10800000000000000
+      internalID: 2021750113061674823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 323
+        width: 178
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3261f08605deabc0800000000000000
+      internalID: -3769841614152703427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 321
+        width: 170
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3139c5b68fb0b7400800000000000000
+      internalID: 322864959868146451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_3
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 323
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c07e3369f3327050800000000000000
+      internalID: 5796752816584159424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_4
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 362
+        width: 182
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b679cc5a64554b0800000000000000
+      internalID: -5452374095946093687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 101
+        width: 182
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f12d436647ed30800000000000000
+      internalID: 4460611348243543817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 69
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c8af6d2fc331480800000000000000
+      internalID: -8929726622459065260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 65
+        width: 159
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e56af1623f812e0800000000000000
+      internalID: -2154705076631478713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_8
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 199
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dd674ebd3516330800000000000000
+      internalID: 3702332572571196714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 66
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bfaca647211dff0800000000000000
+      internalID: -13209032688206970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_10
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 64
+        width: 184
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c956081a5b977410800000000000000
+      internalID: 1474818214239558087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 144
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baabbfa20ff216530800000000000000
+      internalID: 3846408265310911147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supersticiones familia cartones_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 64
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa016eefef4a4a620800000000000000
+      internalID: 2784531884726948015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      supersticiones familia cartones_0: 2021750113061674823
+      supersticiones familia cartones_1: -3769841614152703427
+      supersticiones familia cartones_10: 1474818214239558087
+      supersticiones familia cartones_11: 3846408265310911147
+      supersticiones familia cartones_12: 2784531884726948015
+      supersticiones familia cartones_2: 322864959868146451
+      supersticiones familia cartones_3: 5796752816584159424
+      supersticiones familia cartones_4: -5452374095946093687
+      supersticiones familia cartones_5: 4460611348243543817
+      supersticiones familia cartones_6: -8929726622459065260
+      supersticiones familia cartones_7: -2154705076631478713
+      supersticiones familia cartones_8: 3702332572571196714
+      supersticiones familia cartones_9: -13209032688206970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 4dc4d975d937f3441b5876decf8af063
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2595637364810733871
+    second: supersticiones familia combo_0
+  - first:
+      213: -8312744976403193862
+    second: supersticiones familia combo_1
+  - first:
+      213: -2101906684540758194
+    second: supersticiones familia combo_2
+  - first:
+      213: -3920447812956580879
+    second: supersticiones familia combo_3
+  - first:
+      213: 4311045167366560659
+    second: supersticiones familia combo_4
+  - first:
+      213: 349205741497983482
+    second: supersticiones familia combo_5
+  - first:
+      213: -4123363932902498682
+    second: supersticiones familia combo_6
+  - first:
+      213: -2572113778326929905
+    second: supersticiones familia combo_7
+  - first:
+      213: 6356412768441748567
+    second: supersticiones familia combo_8
+  - first:
+      213: -3420653712041401276
+    second: supersticiones familia combo_9
+  - first:
+      213: 1104679463799549937
+    second: supersticiones familia combo_10
+  - first:
+      213: 3114129803955401341
+    second: supersticiones familia combo_11
+  - first:
+      213: -43192794421947896
+    second: supersticiones familia combo_12
+  - first:
+      213: 8637219294459225216
+    second: supersticiones familia combo_13
+  - first:
+      213: 1048446618669585264
+    second: supersticiones familia combo_14
+  - first:
+      213: 2752241058855406431
+    second: supersticiones familia combo_15
+  - first:
+      213: 9092457666672718315
+    second: supersticiones familia combo_16
+  - first:
+      213: -8856095169707957025
+    second: supersticiones familia combo_17
+  - first:
+      213: -1001633913889863146
+    second: supersticiones familia combo_18
+  - first:
+      213: 1047019369518426075
+    second: supersticiones familia combo_19
+  - first:
+      213: 4777700809036685418
+    second: supersticiones familia combo_20
+  - first:
+      213: -7333789675449339177
+    second: catalizador
+  - first:
+      213: -628909732927652525
+    second: "ecl\xE9ctico"
+  - first:
+      213: 3023675459629731888
+    second: especialista
+  - first:
+      213: 3137217424259298394
+    second: trio
+  - first:
+      213: 7888014427761573652
+    second: cimiento
+  - first:
+      213: 5165428321551337622
+    second: talisman
+  - first:
+      213: -8085472253856780479
+    second: manias_viejas
+  - first:
+      213: -7247867907590031779
+    second: barato
+  - first:
+      213: 697240033503764481
+    second: caro
+  - first:
+      213: -8847330423481202990
+    second: devoto_bombo
+  - first:
+      213: -7105831335659820283
+    second: aprendiz
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: catalizador
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 383
+        width: 78
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d23a617525293a90800000000000000
+      internalID: -7333789675449339177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ecl\xE9ctico"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 383
+        width: 121
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dbf051ee9a547f0800000000000000
+      internalID: -628909732927652525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: especialista
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 383
+        width: 139
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030db477fc046f920800000000000000
+      internalID: 3023675459629731888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 383
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54342c20a2a98b20800000000000000
+      internalID: 3137217424259298394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cimiento
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 225
+        width: 134
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f72ed545bd77d60800000000000000
+      internalID: 7888014427761573652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talisman
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6984fcad0b94fa740800000000000000
+      internalID: 5165428321551337622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manias_viejas
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 221
+        width: 156
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fe693e2d1aacf80800000000000000
+      internalID: -8085472253856780479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barato
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 213
+        width: 145
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d567425f9866a6b90800000000000000
+      internalID: -7247867907590031779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caro
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 89
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1006c28cd181da900800000000000000
+      internalID: 697240033503764481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: devoto_bombo
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 46
+        width: 132
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d685e1ead7f73580800000000000000
+      internalID: -8847330423481202990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aprendiz
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 38
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b282c6c04036d90800000000000000
+      internalID: -7105831335659820283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aprendiz: -7105831335659820283
+      barato: -7247867907590031779
+      caro: 697240033503764481
+      catalizador: -7333789675449339177
+      cimiento: 7888014427761573652
+      devoto_bombo: -8847330423481202990
+      "ecl\xE9ctico": -628909732927652525
+      especialista: 3023675459629731888
+      manias_viejas: -8085472253856780479
+      supersticiones familia combo_0: -2595637364810733871
+      supersticiones familia combo_1: -8312744976403193862
+      supersticiones familia combo_10: 1104679463799549937
+      supersticiones familia combo_11: 3114129803955401341
+      supersticiones familia combo_12: -43192794421947896
+      supersticiones familia combo_13: 8637219294459225216
+      supersticiones familia combo_14: 1048446618669585264
+      supersticiones familia combo_15: 2752241058855406431
+      supersticiones familia combo_16: 9092457666672718315
+      supersticiones familia combo_17: -8856095169707957025
+      supersticiones familia combo_18: -1001633913889863146
+      supersticiones familia combo_19: 1047019369518426075
+      supersticiones familia combo_2: -2101906684540758194
+      supersticiones familia combo_20: 4777700809036685418
+      supersticiones familia combo_3: -3920447812956580879
+      supersticiones familia combo_4: 4311045167366560659
+      supersticiones familia combo_5: 349205741497983482
+      supersticiones familia combo_6: -4123363932902498682
+      supersticiones familia combo_7: -2572113778326929905
+      supersticiones familia combo_8: 6356412768441748567
+      supersticiones familia combo_9: -3420653712041401276
+      talisman: 5165428321551337622
+      trio: 3137217424259298394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
